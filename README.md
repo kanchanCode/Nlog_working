@@ -66,10 +66,10 @@ Save it and run it .You'll get NLog message in console.
 
 Now adding one more class to add two numbers and display information and error in NLog
 
+
 using System;
 using System.Collections.Generic;
 using System.Text;
-
 namespace classwork_Nlog
 {
    public class addNum
@@ -94,6 +94,7 @@ namespace classwork_Nlog
         }
     }
 }
+
 
 creating objects of it in Program.cs
             addNum obj2 = new addNum();
