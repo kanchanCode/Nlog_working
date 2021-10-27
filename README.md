@@ -51,6 +51,8 @@ namespace classwork_Nlog
     }
 }
 
+https://docs.google.com/document/d/1kI9BUZRzpvCaD2ScM33H9INh7Hw494dCVzc3qBzp5mQ/edit
+
 //Dont forget to add using NLog//
 
 Go to program.cs -> Create objects and call methods like
