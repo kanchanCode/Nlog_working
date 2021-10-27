@@ -1,0 +1,8 @@
+2021-10-27 12:48:50.2427 DEBUG Debugging the code
+2021-10-27 12:48:50.3197 INFO a : 5 b :4
+2021-10-27 12:48:50.3479 DEBUG debug done 
+2021-10-27 12:48:50.3479 DEBUG sum is 9
+2021-10-27 12:51:33.4439 DEBUG Debugging the code
+2021-10-27 12:51:33.5220 INFO a : 0 b :0
+2021-10-27 12:51:33.5220 DEBUG debug is successful
+2021-10-27 12:51:33.5220 ERROR Error in a or b's value 

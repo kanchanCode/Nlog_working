@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>classwork_Nlog</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.12" />
+    <PackageReference Include="NLog.Config" Version="4.7.12" />
+  </ItemGroup>
+
+</Project>
