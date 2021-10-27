@@ -25,6 +25,7 @@ using System.Text;
 
 namespace classwork_Nlog
 {
+
    public class nlog
     {
         public Logger logger = LogManager.GetCurrentClassLogger();
@@ -70,8 +71,10 @@ Now adding one more class to add two numbers and display information and error i
 using System;
 using System.Collections.Generic;
 using System.Text;
+
 namespace classwork_Nlog
 {
+
    public class addNum
     {
     //created object of previous class
